@@ -3,7 +3,7 @@
 ## 1. Instalación ✒️
 Para el desarrollo de esta aplicación se está usando Python y Django.
 
-# Soporte
+### Soporte
 Si tiene dificultad con la aplicación puede comunicarse con el equipo a través de correo
 electrónico a las siguientes direcciones:
 
