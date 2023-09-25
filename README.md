@@ -1,4 +1,4 @@
-# django_app : Construcción de aplicación Django, incluye API, autenticación y pruebas
+# Django_app : Construcción de aplicación Django, incluye API, autenticación y pruebas
 
 ## 1. Instalación ✒️
 Para el desarrollo de esta aplicación se está usando Python y Django.
