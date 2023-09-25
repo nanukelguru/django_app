@@ -6,13 +6,13 @@
 ## 2. Instalación
 * Instalar la ultima versión de Python desde https://www.python.org/?downloads
 * Crear el entorno virtual, para esto ubiquese en la carpeta de su proyecto y a continuación ejecute las siguientes instrucciones: 
-  > pip install virtualenv
-  > virtualenv env
-  > .\venv\Scripts\activate
+  - pip install virtualenv
+  - virtualenv env
+  - .\venv\Scripts\activate
 *Para instalar Django ejecute la siguiente instrucción:
-  > pip install django
+  - pip install django
 *Para crear nuestro primer proyecto ejecutamos lo siguiente:
-  >django-admin startproject [nombre de tu proyecto]
+  - django-admin startproject [nombre de tu proyecto]
   
 
 
