@@ -9,8 +9,9 @@
   * pip install virtualenv
   * virtualenv env
   * .\venv\Scripts\activate
-* Para instalar Django ejecute la siguiente instrucción:
+* Para instalar el módulo de Django y de Django Rest Framework ejecute lo siguiente:
   * pip install django
+  * pip install djangorestframework
 * Para crear nuestro primer proyecto ejecutamos lo siguiente:
   * django-admin startproject [nombre de tu proyecto]
   
