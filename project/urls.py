@@ -3,6 +3,6 @@ from .api import ArticuloViewSet
 
 router = routers.DefaultRouter()
 
-router.register('api/projects', ArticuloViewSet, 'articulos')
+router.register('api/project', ArticuloViewSet, 'articulos')
 
 urlpatterns = router.urls
