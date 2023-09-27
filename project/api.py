@@ -5,5 +5,5 @@ from .serializers import ArticuloSerializer
 
 class ArticuloViewSet(viewsets.ModelViewSet):
     queryset = Articulo.objects.all()
-    permissions_classes = [permissions.AllowAny]
+    permissions_classes = [permissions.IsAuthenticated]
     serializer_class = ArticuloSerializer
