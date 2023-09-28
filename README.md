@@ -18,8 +18,10 @@
 
 
 ## 3. Estado del proyecto
-El proyecto actualmente se encuentra en desarrollo, aún falta completar el código, puedes ver un avance en el siquiente link:
-https://djangorf-crud.onrender.com/api/project/
+El proyecto actualmente se encuentra en desarrollo, puedes ver parte del deploy en el siquiente link:
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://djangorf-crud.onrender.com/api/project/)
+
+Consulte la guía en https://render.com/docs/deploy-django.
 
 
  * Soporte
