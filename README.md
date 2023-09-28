@@ -26,7 +26,6 @@ Consulte la guía en https://render.com/docs/deploy-django.
 
 
  * Soporte
-Si tiene dificultad con la aplicación puede comunicarse con el equipo a través de correo
-electrónico a las siguientes direcciones:
+Si tiene dificultad con la aplicación puede comunicarse a través de correo a esta dirección
 
 angelica.lopezcap@gmail.com
