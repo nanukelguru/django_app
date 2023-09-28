@@ -22,8 +22,8 @@ El proyecto actualmente se encuentra en desarrollo, puedes ver parte del deploy 
 
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://djangorf-crud.onrender.com/api/project/)
 
-* https://djangorf-crud.onrender.com/api/project/
-* https://djangorf-crud.onrender.com/api/token/
+ * https://djangorf-crud.onrender.com/api/project/
+ * https://djangorf-crud.onrender.com/api/token/
 
 Consulte la guía en https://render.com/docs/deploy-django.
 
