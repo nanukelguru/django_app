@@ -3,7 +3,7 @@
 ## 1. Construido con: ✒️
  Python y Django.
 
-## 2. Instalación
+## 2. Instalación 🖥️
 * Instalar la ultima versión de Python desde https://www.python.org/?downloads
 * Crear el entorno virtual, para esto ubiquese en la carpeta de su proyecto y a continuación ejecute las siguientes instrucciones: 
   * pip install virtualenv
@@ -17,8 +17,9 @@
   
 
 
-## 3. Estado del proyecto
-El proyecto actualmente se encuentra en desarrollo, puedes ver parte del deploy en el siquiente link:
+## 3. Estado del proyecto 📝
+El proyecto actualmente se encuentra en desarrollo, puedes ver parte del deploy haga clic en el botón.
+
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://djangorf-crud.onrender.com/api/project/)
 
 Consulte la guía en https://render.com/docs/deploy-django.
